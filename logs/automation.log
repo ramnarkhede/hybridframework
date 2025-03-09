@@ -1,0 +1,82 @@
+2025-03-09 04:59:48 INFO  Utils:112 - [TestNG] Running:
+  D:\Automation Testing\hybridframework\master.xml
+
+2025-03-09 05:00:37 INFO  Utils:112 - [TestNG] Running:
+  D:\Automation Testing\hybridframework\grouping.xml
+
+2025-03-09 05:01:37 INFO  Utils:112 - [TestNG] Running:
+  D:\Automation Testing\hybridframework\master.xml
+
+2025-03-09 05:02:14 INFO  Utils:112 - [TestNG] Running:
+  D:\Automation Testing\hybridframework\master.xml
+
+2025-03-09 05:02:44 INFO  Utils:112 - [TestNG] Running:
+  D:\Automation Testing\hybridframework\master.xml
+
+2025-03-09 05:02:52 INFO  TC003_LoginDDT:17 - ************Started TC003_LoginDDT **************
+2025-03-09 05:02:55 INFO  TC003_LoginDDT:62 - ************Finished TC003_LoginDDT **************
+2025-03-09 05:02:55 INFO  TC003_LoginDDT:17 - ************Started TC003_LoginDDT **************
+2025-03-09 05:03:07 INFO  TC003_LoginDDT:62 - ************Finished TC003_LoginDDT **************
+2025-03-09 05:03:07 INFO  TC003_LoginDDT:17 - ************Started TC003_LoginDDT **************
+2025-03-09 05:03:19 INFO  TC003_LoginDDT:62 - ************Finished TC003_LoginDDT **************
+2025-03-09 05:06:19 INFO  Utils:112 - [TestNG] Running:
+  D:\Automation Testing\hybridframework\master.xml
+
+2025-03-09 05:06:25 INFO  TC003_LoginDDT:17 - ************Started TC003_LoginDDT **************
+2025-03-09 05:06:29 INFO  TC003_LoginDDT:62 - ************Finished TC003_LoginDDT **************
+2025-03-09 05:06:29 INFO  TC003_LoginDDT:17 - ************Started TC003_LoginDDT **************
+2025-03-09 05:06:41 INFO  TC003_LoginDDT:62 - ************Finished TC003_LoginDDT **************
+2025-03-09 05:06:41 INFO  TC003_LoginDDT:17 - ************Started TC003_LoginDDT **************
+2025-03-09 05:06:53 INFO  TC003_LoginDDT:62 - ************Finished TC003_LoginDDT **************
+2025-03-09 05:17:23 INFO  Utils:112 - [TestNG] Running:
+  D:\Automation Testing\hybridframework\master.xml
+
+2025-03-09 05:17:29 INFO  TC003_LoginDDT:17 - ************Started TC003_LoginDDT **************
+2025-03-09 05:17:32 INFO  TC003_LoginDDT:62 - ************Finished TC003_LoginDDT **************
+2025-03-09 05:17:32 INFO  TC003_LoginDDT:17 - ************Started TC003_LoginDDT **************
+2025-03-09 05:17:44 INFO  TC003_LoginDDT:62 - ************Finished TC003_LoginDDT **************
+2025-03-09 05:17:44 INFO  TC003_LoginDDT:17 - ************Started TC003_LoginDDT **************
+2025-03-09 05:17:56 INFO  TC003_LoginDDT:62 - ************Finished TC003_LoginDDT **************
+2025-03-09 05:23:19 INFO  TC003_LoginDDT:17 - ************Started TC003_LoginDDT **************
+2025-03-09 05:23:23 INFO  TC003_LoginDDT:62 - ************Finished TC003_LoginDDT **************
+2025-03-09 05:23:23 INFO  TC003_LoginDDT:17 - ************Started TC003_LoginDDT **************
+2025-03-09 05:23:35 INFO  TC003_LoginDDT:62 - ************Finished TC003_LoginDDT **************
+2025-03-09 05:23:35 INFO  TC003_LoginDDT:17 - ************Started TC003_LoginDDT **************
+2025-03-09 05:23:48 INFO  TC003_LoginDDT:62 - ************Finished TC003_LoginDDT **************
+2025-03-09 05:24:06 INFO  Utils:112 - [TestNG] Running:
+  D:\Automation Testing\hybridframework\master.xml
+
+2025-03-09 05:24:12 INFO  TC003_LoginDDT:17 - ************Started TC003_LoginDDT **************
+2025-03-09 05:24:16 INFO  TC003_LoginDDT:62 - ************Finished TC003_LoginDDT **************
+2025-03-09 05:24:16 INFO  TC003_LoginDDT:17 - ************Started TC003_LoginDDT **************
+2025-03-09 05:24:28 INFO  TC003_LoginDDT:62 - ************Finished TC003_LoginDDT **************
+2025-03-09 05:24:28 INFO  TC003_LoginDDT:17 - ************Started TC003_LoginDDT **************
+2025-03-09 05:24:41 INFO  TC003_LoginDDT:62 - ************Finished TC003_LoginDDT **************
+2025-03-09 05:31:23 INFO  TC003_LoginDDT:17 - ************Started TC003_LoginDDT **************
+2025-03-09 05:31:27 INFO  TC003_LoginDDT:62 - ************Finished TC003_LoginDDT **************
+2025-03-09 05:31:27 INFO  TC003_LoginDDT:17 - ************Started TC003_LoginDDT **************
+2025-03-09 05:31:38 INFO  TC003_LoginDDT:62 - ************Finished TC003_LoginDDT **************
+2025-03-09 05:31:38 INFO  TC003_LoginDDT:17 - ************Started TC003_LoginDDT **************
+2025-03-09 05:31:50 INFO  TC003_LoginDDT:62 - ************Finished TC003_LoginDDT **************
+2025-03-09 05:32:14 INFO  Utils:112 - [TestNG] Running:
+  D:\Automation Testing\hybridframework\grouping.xml
+
+2025-03-09 05:32:21 INFO  TC001_AccountRegistrationTest:19 - **********Starting TC001_AccountRegistrationTest***********
+2025-03-09 05:32:21 INFO  TC001_AccountRegistrationTest:22 - Clicked on myAccount link
+2025-03-09 05:32:22 INFO  TC001_AccountRegistrationTest:24 - Clicked on register link
+2025-03-09 05:32:22 INFO  TC001_AccountRegistrationTest:28 - Providing customer details
+2025-03-09 05:32:24 INFO  TC001_AccountRegistrationTest:39 - validating expected message
+2025-03-09 05:32:39 INFO  TC_002_AccountLoginTest:15 - ***********************Starting TC_002_AccountLoginTest***********************
+2025-03-09 05:32:41 INFO  TC_002_AccountLoginTest:37 - ***********************Finished TC_002_AccountLoginTest***********************
+2025-03-09 05:45:55 INFO  TC003_LoginDDT:17 - ************Started TC003_LoginDDT **************
+2025-03-09 05:45:59 INFO  TC003_LoginDDT:62 - ************Finished TC003_LoginDDT **************
+2025-03-09 05:45:59 INFO  TC003_LoginDDT:17 - ************Started TC003_LoginDDT **************
+2025-03-09 05:46:11 INFO  TC003_LoginDDT:62 - ************Finished TC003_LoginDDT **************
+2025-03-09 05:46:11 INFO  TC003_LoginDDT:17 - ************Started TC003_LoginDDT **************
+2025-03-09 05:46:23 INFO  TC003_LoginDDT:62 - ************Finished TC003_LoginDDT **************
+2025-03-09 05:52:46 INFO  TC003_LoginDDT:17 - ************Started TC003_LoginDDT **************
+2025-03-09 05:52:50 INFO  TC003_LoginDDT:62 - ************Finished TC003_LoginDDT **************
+2025-03-09 05:52:50 INFO  TC003_LoginDDT:17 - ************Started TC003_LoginDDT **************
+2025-03-09 05:53:01 INFO  TC003_LoginDDT:62 - ************Finished TC003_LoginDDT **************
+2025-03-09 05:53:01 INFO  TC003_LoginDDT:17 - ************Started TC003_LoginDDT **************
+2025-03-09 05:53:13 INFO  TC003_LoginDDT:62 - ************Finished TC003_LoginDDT **************
