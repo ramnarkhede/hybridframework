@@ -80,3 +80,12 @@
 2025-03-09 05:53:01 INFO  TC003_LoginDDT:62 - ************Finished TC003_LoginDDT **************
 2025-03-09 05:53:01 INFO  TC003_LoginDDT:17 - ************Started TC003_LoginDDT **************
 2025-03-09 05:53:13 INFO  TC003_LoginDDT:62 - ************Finished TC003_LoginDDT **************
+2025-03-10 00:52:09 INFO  Utils:112 - [TestNG] Running:
+  D:\Automation Testing\hybridframework\master.xml
+
+2025-03-10 00:52:20 INFO  TC003_LoginDDT:17 - ************Started TC003_LoginDDT **************
+2025-03-10 00:52:24 INFO  TC003_LoginDDT:62 - ************Finished TC003_LoginDDT **************
+2025-03-10 00:52:24 INFO  TC003_LoginDDT:17 - ************Started TC003_LoginDDT **************
+2025-03-10 00:52:35 INFO  TC003_LoginDDT:62 - ************Finished TC003_LoginDDT **************
+2025-03-10 00:52:35 INFO  TC003_LoginDDT:17 - ************Started TC003_LoginDDT **************
+2025-03-10 00:52:47 INFO  TC003_LoginDDT:62 - ************Finished TC003_LoginDDT **************
